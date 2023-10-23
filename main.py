@@ -67,7 +67,6 @@ def clear_fields():
 root = tk.Tk()
 root.title("Archive Password Bruteforce")
 
-# Create a frame for better organization
 frame = tk.Frame(root)
 frame.pack(padx=10, pady=10)
 
